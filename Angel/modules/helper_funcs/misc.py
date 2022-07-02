@@ -132,4 +132,4 @@ def build_keyboard_parser(bot, chat_id, buttons):
 
 
 def is_module_loaded(name):
-    return name not in 
+    return name not in NO_LOAD
