@@ -56,6 +56,9 @@
 <a href="https://t.me/angelxupdates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/angelsupports"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
+# Licence
+[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)
+
 ### Mandatory Vars 🙋‍♀️
 ```
 [+] Make Sure You Add All These Mandatory Vars. 
@@ -70,3 +73,8 @@
 [+] The Angel won't run without setting the mandatory vars.
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Credits:
+• [Vicky](https://GitHub.com/Vickyftw) - Dev
+
+• [SADEW JAYASEKARA](https://github.com/SADEW451)
