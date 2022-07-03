@@ -1,5 +1,5 @@
 {
-      "name": "Anegl",
+      "name": "Angel",
       "description": "An Anime themed Telegram group management bot.",
       "logo": "https://telegra.ph/file/60ee9c876eb643440e29a.png",
       "keywords": [
@@ -9,7 +9,7 @@
          "manager",
          "TheAngelBot"
       ],   
-   "repository": "https://github.com/Vickyftw/Miss-Angel-Group-Manager",
+   "repository": "https://github.com/Vickyftw/AngelxBot",
    "addons": [
       {
          "options": {
@@ -200,5 +200,5 @@
       "Angel"
    ],
    "name": "Angel",
-   "repository": "https://github.com/Vickyftw/Miss-Angel-Group-Manager"
+   "repository": "https://github.com/Vickyftw/AngelxBot"
 }
