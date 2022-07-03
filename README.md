@@ -35,12 +35,12 @@
 <h4 align="center">ᴅᴇᴘʟᴏʏ ᴀ ʟᴏᴠᴇʟʏ sɪᴍᴘʟᴇ ᴀɴᴅ ꜰᴀsᴛᴇsᴛ ʀᴏʙᴏᴛ ⚡️🍃<br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <a href="https://github.com/stars/Vickyftw/Miss-Angel-Group-Manager/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
+  <a href="https://github.com/stars/Vickyftw/AngelxBot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
 <p align="center"><a href="https://t.me/angelsupports"><img src="https://telegra.ph/file/a8f52523bce21e4ed711a.png" width="400"></a></p>
 <p align="center">
-    <a href="https://github.com/Vickyftw/Miss-Angel-Group-Manager/commits/Vickyftw"> <img src="https://img.shields.io/github/last-commit/Vickyftw/Miss-Angel-Group-Manager?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Vickyftw/AngelxBot/commits/Vickyftw"> <img src="https://img.shields.io/github/last-commit/Vickyftw/AngelxBot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
   
 </p>
 
@@ -49,7 +49,8 @@
 ## ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs 🎀[@AngelxRobot](https://t.me/AngelxRobot)
 
 # 𝗗𝗲𝗽𝗹𝗼𝘆 𝗢𝗻 𝗛𝗲𝗿𝗼𝗸𝘂 🛰 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vickyftw/Miss-Angel-Group-Manager.git)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vickftw/AngelxBot.git)
+[![Deploy Via Bot Telegram](https://img.shields.io/badge/Deploy%20Via%20Bot%20Telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://telegram.dog/XTZ_HerokuBot?start=U2VvcmFuZ0Rpb24vRGlvbkJvdCBkaW9u)
 
 
 # ⚡ Support
@@ -75,6 +76,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Credits:
-• [Vicky](https://GitHub.com/Vickyftw) - Dev
+• [Vicky] <a href="https://github.com/Vickyftw" alt="Vickyftw"> <img src="https://img.shields.io/badge/Vickyftw-90302f?logo=github" /></a> >> Dev
 
-• [SADEW JAYASEKARA](https://github.com/SADEW451)
+• [SADEW JAYASEKARA] <a href="https://github.com/SADEW451" alt="SADEW451"> <img src="https://img.shields.io/badge/SADEW451-90302f?logo=github" /></a> 
