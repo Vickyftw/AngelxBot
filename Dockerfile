@@ -65,7 +65,7 @@ RUN apt update && apt upgrade -y && \
 RUN pip3 install --upgrade pip setuptools
 
 # Copy Python Requirements to /root/Angel
-RUN git clone -b shiken https://github.com/Miss-Angel-Group-Manager/root/Angel
+RUN git clone -b shiken https://github.com/AngelxBot/root/Angel
 WORKDIR /root/Angel
 
 #Copy config file to /root/Angel/Angel
