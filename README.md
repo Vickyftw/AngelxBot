@@ -16,17 +16,17 @@
     <a href="https://GitHub.com/Vickyftw">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
     </a> <br>
-    <img src="https://img.shields.io/github/contributors/Vickyftw/Miss-Angel-Group-Manager?style=for-the-badge&logo=appveyor" alt="Contributors">
-    <img src="https://img.shields.io/github/repo-size/Vickyftw/Miss-Angel-Group-Manager?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
+    <img src="https://img.shields.io/github/contributors/Vickyftw/AngelxBot?style=for-the-badge&logo=appveyor" alt="Contributors">
+    <img src="https://img.shields.io/github/repo-size/Vickyftw/AngelxBot?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
     <img src="https://img.shields.io/badge/python-3.9-green?style=for-the-badge&logo=appveyor" alt="Python Version">
-    <img src="https://img.shields.io/github/issues/Vickyftw/Miss-Angel-Group-Manager?style=for-the-badge&logo=appveyor" alt="Issues">
-    <img src="https://img.shields.io/github/forks/Vickyftw/Miss-Angel-Group-Manager?style=for-the-badge&logo=appveyor" alt="Forks">
-    <img src="https://img.shields.io/github/stars/Vickyftw/Miss-Angel-Group-Manager?style=for-the-badge&logo=appveyor" alt="Stars">
+    <img src="https://img.shields.io/github/issues/Vickyftw/AngelxBot?style=for-the-badge&logo=appveyor" alt="Issues">
+    <img src="https://img.shields.io/github/forks/Vickyftw/AngelxBot?style=for-the-badge&logo=appveyor" alt="Forks">
+    <img src="https://img.shields.io/github/stars/Vickyftw/AngelxBot?style=for-the-badge&logo=appveyor" alt="Stars">
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-- ![GitHub](https://img.shields.io/github/license/Vickyftw/Miss-Angel-Group-Manager)
-- [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Angelxbot)
+- ![GitHub](https://img.shields.io/github/license/Vickyftw/AngelxBot)
+- [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Vickyftw/AngelxBot)
 
 <h3 align="center"> 
     𝗚𝗿𝗼𝘂𝗽 𝗠𝗮𝗻𝗮𝗴𝗲𝗿    
