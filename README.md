@@ -5,7 +5,7 @@
 
 ## The new repo of [@AngelxRobot](https://t.me/angelsupports) is public. 
 
-## ⚡ (It is no longer based on this source code. The completely rewritten bot available now on telegram)
+## ⚡ (ᴜɴᴅᴇʀ ᴘʀᴏɢʀᴇꜱꜱ ʀᴇᴘᴏ ɴᴏᴛ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ʏᴇᴛ)
 
 <p align="center">
     <a href="https://python.org">
