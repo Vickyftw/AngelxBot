@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b> 𝘔𝘐𝘚𝘚 𝘈𝘕𝘎𝘌𝘓 ❗️</b></h1> 
 
 ##  𝘊𝘢𝘵𝘤𝘩 𝘔𝘦 𝘐𝘯 [𝘛𝘎🏃‍♀️](https://t.me/AngelxRobot) 
@@ -64,3 +65,4 @@
     [-] MONGO_DB': 'Angel
 [+] The Angel won't run without setting the mandatory vars.
 ```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
