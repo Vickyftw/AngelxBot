@@ -77,5 +77,3 @@
 
 ## Credits:
 • [Vicky] <a href="https://github.com/Vickyftw" alt="Vickyftw"> <img src="https://img.shields.io/badge/Vickyftw-90302f?logo=github" /></a> >> Dev
-
-• [SADEW JAYASEKARA] <a href="https://github.com/SADEW451" alt="SADEW451"> <img src="https://img.shields.io/badge/SADEW451-90302f?logo=github" /></a> 
