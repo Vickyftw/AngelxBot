@@ -11,7 +11,7 @@
     <a href="https://python.org">
         <img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python">
     </a>
-    <a href="https://GitHub.com/Sadew451">
+    <a href="https://GitHub.com/Vickyftw">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
     </a> <br>
     <img src="https://img.shields.io/github/license/Vickyftw/Miss-Angel-Group-Manager?style=for-the-badge&logo=appveyor" alt="LICENSE">
