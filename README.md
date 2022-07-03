@@ -37,7 +37,7 @@
   <a href="https://github.com/stars/Vickyftw/Miss-Angel-Group-Manager/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/angelsupports"><img src="https://telegra.ph/file/479442bd0f7e982462b19.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/angelsupports"><img src="https://telegra.ph/file/a8f52523bce21e4ed711a.png" width="400"></a></p>
 <p align="center">
     <a href="https://github.com/Vickyftw/Miss-Angel-Group-Manager/commits/Vickyftw"> <img src="https://img.shields.io/github/last-commit/Vickyftw/Miss-Angel-Group-Manager?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
   
