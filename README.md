@@ -7,6 +7,8 @@
 
 ## ⚡ (ᴜɴᴅᴇʀ ᴘʀᴏɢʀᴇꜱꜱ ʀᴇᴘᴏ ɴᴏᴛ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ʏᴇᴛ)
 
+- ![GitHub repo size](https://img.shields.io/github/repo-size/Vickyftw/NK?label=Repo%20Size)
+
 <p align="center">
     <a href="https://python.org">
         <img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python">
@@ -14,7 +16,6 @@
     <a href="https://GitHub.com/Vickyftw">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
     </a> <br>
-    <img src="https://img.shields.io/github/license/Vickyftw/Miss-Angel-Group-Manager?style=for-the-badge&logo=appveyor" alt="LICENSE">
     <img src="https://img.shields.io/github/contributors/Vickyftw/Miss-Angel-Group-Manager?style=for-the-badge&logo=appveyor" alt="Contributors">
     <img src="https://img.shields.io/github/repo-size/Vickyftw/Miss-Angel-Group-Manager?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
     <img src="https://img.shields.io/badge/python-3.9-green?style=for-the-badge&logo=appveyor" alt="Python Version">
@@ -24,7 +25,7 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-![GitHub](https://img.shields.io/github/license/Vickyftw/Miss-Angel-Group-Manager)
+- ![GitHub](https://img.shields.io/github/license/Vickyftw/Miss-Angel-Group-Manager)
 
 <h3 align="center"> 
     𝗚𝗿𝗼𝘂𝗽 𝗠𝗮𝗻𝗮𝗴𝗲𝗿    
