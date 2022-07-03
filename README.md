@@ -49,7 +49,7 @@
 ## ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs 🎀[@AngelxRobot](https://t.me/AngelxRobot)
 
 # 𝗗𝗲𝗽𝗹𝗼𝘆 𝗢𝗻 𝗛𝗲𝗿𝗼𝗸𝘂 🛰 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vickftw/AngelxBot.git)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vickftw/AngelxBot)
 [![Deploy Via Bot Telegram](https://img.shields.io/badge/Deploy%20Via%20Bot%20Telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://telegram.dog/XTZ_HerokuBot?start=U2VvcmFuZ0Rpb24vRGlvbkJvdCBkaW9u)
 
 
