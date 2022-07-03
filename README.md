@@ -26,7 +26,7 @@
 </p>
 
 - ![GitHub](https://img.shields.io/github/license/Vickyftw/Miss-Angel-Group-Manager)
-- [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Angelbot)
+- [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Angelxbot)
 
 <h3 align="center"> 
     𝗚𝗿𝗼𝘂𝗽 𝗠𝗮𝗻𝗮𝗴𝗲𝗿    
