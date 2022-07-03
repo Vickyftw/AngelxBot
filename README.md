@@ -24,6 +24,8 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
+![GitHub](https://img.shields.io/github/license/Vickyftw/Miss-Angel-Group-Manager)
+
 <h3 align="center"> 
     𝗚𝗿𝗼𝘂𝗽 𝗠𝗮𝗻𝗮𝗴𝗲𝗿    
 </h3>
