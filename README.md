@@ -7,8 +7,6 @@
 
 ## ⚡ (ᴜɴᴅᴇʀ ᴘʀᴏɢʀᴇꜱꜱ ʀᴇᴘᴏ ɴᴏᴛ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ʏᴇᴛ)
 
-- ![GitHub repo size](https://img.shields.io/github/repo-size/Vickyftw/NK?label=Repo%20Size)
-
 <p align="center">
     <a href="https://python.org">
         <img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python">
@@ -26,6 +24,7 @@
 </p>
 
 - ![GitHub](https://img.shields.io/github/license/Vickyftw/AngelxBot)
+- ![GitHub repo size](https://img.shields.io/github/repo-size/Vickyftw/AngelxBot?label=Repo%20Size)
 - [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Vickyftw/AngelxBot)
 
 <h3 align="center"> 
